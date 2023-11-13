@@ -1,4 +1,4 @@
-## RNA - rna_image_classificator
+## RNA - rna_image_classificator_v2
 
 ### Install python (você vai precisar instalar estes pacotes)
 
