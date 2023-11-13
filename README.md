@@ -2,32 +2,16 @@
 
 ### Install python (você vai precisar instalar estes pacotes)
 
-numpy <br>
-sklearn <br>
-matplotlib <br>
-keras <br>
-joblib <br>
+numpy `<br>`
+sklearn `<br>`
+matplotlib `<br>`
+keras `<br>`
+joblib `<br>`
 
 ## Utilize o comando "!pip install (nome)" no jupyter para instalá-los
 
-## Resumo <br>
+## Resumo `<br>`
 
-Este é um modelo de rede neural, capaz de classificar qualquer imagem em até 9 classes diferentes, sendo: <br>
+Este é um modelo de rede neural, capaz de classificar uma imagem ou identificar um rosto específico `<br>`
 
-Avião<br>
-
-Carro<br>
-
-Pássaro<br>
-
-Cervo<br>
-
-Cachorro<br>
-
-Sapo<br>
-
-Cavalo<br>
-
-Navio<br>
-
-Caminhão<br>
+Pode ser utilizada para reconhecimento facial, classificação de imagens, validações, etc.
